@@ -1,0 +1,6 @@
+{
+	"merkleRoot": "0x8aea19a3c2c1ed8ee414df8718416a6486753c0b7cf58be01b7a1fb865ff60b",
+	"merklePathElements": ["0x7fff", "0x2fbb8b67f32aef36e17419a299baac1b12f466a02c7984b5781089ed35a74c23", "0x103566ca66f0f2dbd35ebc5f94905c71c28b9d9230d141ea5cb0f71f09580535"],
+	"merklePathIndices": [0, 1, 1],
+	"leaf": "0x7fff"
+}
